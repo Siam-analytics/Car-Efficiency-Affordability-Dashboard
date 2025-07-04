@@ -10,7 +10,7 @@ The interactive Power BI dashboard answers key consumer questions:
 - ✅ What are the **most fuel-efficient and cost-effective cars**?
 - ✅ How close am I to affording my **dream car**?
 
-![Dashboard Screenshot](./car-dashboard.png) 
+![Dashboard Screenshot](https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/blob/main/Screenshot%202025-07-04%20191040.png) 
 
 ## 📌 Key Features
 
